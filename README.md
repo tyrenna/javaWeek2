@@ -1,6 +1,6 @@
 # javaWeek2
-// Loops video practice
-//Loop Types
-// For Loops
-//While Loops
-//Do While Loops
+ Loops video practice  <br />
+Loop Types <br />
+For Loops <br />
+While Loops <br />
+Do While Loops <br />
